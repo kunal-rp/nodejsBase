@@ -1,0 +1,9 @@
+[
+	{
+		"user_id": 100001,
+		"username":"firstUser",
+		"password":"$2a$05$9R5hPGMuLj7ymAnupdSRAOHjrRGJk1eQ2oa71/3HbbpbH.Q4MCl3G",
+		"email":"testUser@test.com",
+		"role":0
+	}
+]
