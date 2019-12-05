@@ -1,7 +1,6 @@
-# SceneStamp_Server
+# Node JS
 
-1) Timestamp videos 
+For those times when you want to create a backend server with authentication with JWT and user permission groups for REST API'S with fake data both locally initially along with database connections for MYSQL databases , but don't wanna do all of the work
 
-2) Search timestamps, create compilation video
+Tests Included :)
 
-3) Post to YouTube, Get them vieeewwws 
