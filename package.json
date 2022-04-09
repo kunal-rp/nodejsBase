@@ -33,7 +33,7 @@
     "follow-redirects": "^1.9.0",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^8.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "mysql": "^2.17.1",
     "nightmare": "^3.0.2",
